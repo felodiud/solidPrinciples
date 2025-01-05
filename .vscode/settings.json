@@ -1,4 +1,9 @@
 {
     "editor.guides.highlightActiveIndentation": true,
-    "editor.guides.indentation": false
+    "editor.guides.indentation": true,
+    // "editor.guides.bracketPairsHorizontal":true,
+    "editor.guides.bracketPairs": "active",
+    
+
+
 }
